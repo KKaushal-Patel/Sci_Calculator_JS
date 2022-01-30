@@ -1,0 +1,1 @@
+"I have created this web based scientific calulator capable of performing lots of basic operations,functions, trigonometry etc. I have used HTML and CSS to define its structure and make it look professional. To add functionality vanilla JavaScript is used."
